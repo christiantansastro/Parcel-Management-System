@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Parcels - Index</title>
+<link href="resources/style.css" rel="stylesheet" type="text/css" />
+<style>
+.container {
+	background: var(--clr-theme1);
+	color: var(--clr-light);
+	width: 70%;
+	max-width: 900px;
+	padding: 10px;
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+
+.container-txt {
+	padding: 10px 20% 2px 30px;
+	font-size: 2rem;
+}
+
+.container-img {
+	width: 80%;
+	max-width: 500px;
+	margin: 0 auto;
+	display: block;
+}
+
+.page-title {
+	background: none;
+	margin-bottom: 40px;
+}
+
+.grid-holder {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	gap: 20px;
+	width: 70%;
+	max-width: 1000px;
+	margin-top: 40px;
+	margin-bottom: 100px;
+	margin: 0 auto;
+}
+
+.box {
+	width: 90%;
+	height: 90%;
+	background: black;
+}
+
+.grid-txt {
+	color: black;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-style: none;
+	margin-top: 5px;
+	margin: 0 auto;
+	padding: 0px 10px 150px 10px;
+}
+</style>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<img src="resources/images/parcel-logo.jpg" class="logo">
+			<ul class="nav-list">
+				<li><a href="adminLogin.jsp">Admin</a></li>
+				<li><a href="staffLogin.jsp">Staff</a></li>
+				<li><a href="customerLogin.jsp">Customer</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<div class="container">
+		<h2 class="container-txt">Get better in managing parcels..</h2>
+		<img src="resources/images/parcelmanagement.png" class="container-img">
+	</div>
+
+	<div class="page-title">
+		<h1>Who are you?</h1>
+	</div>
+
+	<div class="grid-holder">
+		<a href="customerLogin.jsp"><img class="box" src="resources/images/image1.jpg"></a>
+		<a href="adminLogin.jsp"><img class="box" src="resources/images/image2.jpg"></a>
+		<a href="staffLogin.jsp"><img class="box" src="resources/images/image3.jpg"></a>
+	</div>
+
+	<div class="grid-holder">
+		<a href="customerLogin.jsp" class="grid-txt">customer</a>  
+		<a href="staffLogin.jsp" class="grid-txt">staff</a>  
+		<a href="adminLogin.jsp" class="grid-txt">admin</a>
+	</div>
+
+	<div class="contact-us">
+		<div style="margin-top: 30px;">
+			<h2>contact us</h2>
+		</div>
+		<div>
+			<p>Phone: +60-123123123</p>
+			<p>E-mail: parcel@xmu.edu.my</p>
+			<p>Visit us on B1#117</p>
+		</div>
+	</div>
+
+	<footer>@2022 All Rights Reserved</footer>
+
+</body>
+
+</html>
