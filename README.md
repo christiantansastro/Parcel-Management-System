@@ -13,11 +13,6 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
   </p>
 </div>
 
@@ -47,21 +42,13 @@ Parcel Management System...
 
 ### Built With
 
-* ![JAVA][java-shield]
-* ![HTML][html-shield]
-* ![CSS][css-shield]
-* ![MySQL][mysql-shield]
+![JAVA][java-shield]
+![HTML][html-shield]
+![CSS][css-shield]
+![MySQL][mysql-shield]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
-<!-- USAGE EXAMPLES -->
 ## User Interface
 
 ![homePage](https://github.com/christiantansastro/Parcel-Management-System/assets/137610891/5e83b974-5658-4bd1-b2e5-8a9b00acc63b)
@@ -73,9 +60,9 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Christian Tansastro - christiantan1530@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/christiantansastro/Parcel-Management-System](https://github.com/christiantansastro/Parcel-Management-System)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
