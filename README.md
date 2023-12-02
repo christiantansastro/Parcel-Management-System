@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-![LinkedIn
+![LinkedIn]
 
 <br />
 <div align="center">
