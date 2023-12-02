@@ -1,6 +1,6 @@
-# Parcel Management System
-
-
+<div style="center">
+  <h1> Parcel Management System </h1>  
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
