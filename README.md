@@ -2,7 +2,6 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<br />
 <div align="center">
   <h1 align="center">Parcel Management System</h1>
 </div>
