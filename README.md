@@ -28,11 +28,13 @@ Allow me to share the journey of our Parcel Management System, a collaborative e
 
 ### Built With
 
-![JAVA][java-shield]
-<br/>
 ![HTML][html-shield]
 <br/>
 ![CSS][css-shield]
+<br/>
+![JAVASCRIPT][javascript-shield]
+<br/>
+![JAVA][java-shield]
 <br/>
 ![MySQL][mysql-shield]
 
@@ -93,6 +95,7 @@ Project Link: [https://github.com/christiantansastro/Parcel-Management-System](h
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/christiantansastro
 [java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[javascript-shield]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white
 [css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [mysql-shield]: https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue
