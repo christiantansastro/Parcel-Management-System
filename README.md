@@ -18,6 +18,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+ <div align="justify"> your text </div>
+
 <div align="justify">
 Hi there,
 
