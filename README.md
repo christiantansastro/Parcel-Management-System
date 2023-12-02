@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]][[linkedin-url]](https://www.linkedin.com/in/christiantansastro/)]
+![LinkedIn
 
 <br />
 <div align="center">
