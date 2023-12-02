@@ -48,7 +48,7 @@ Parcel Management System...
 ### Built With
 
 * [java-shield]
-* [![HTML][html-shield]]
+* [HTML][html-shield]
 * [![CSS][css-shield]]
 * [![MySQL][mysql-shield]]
 
