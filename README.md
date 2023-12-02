@@ -18,7 +18,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Parcel Management System...
+Hi there,
+
+Allow me to share the journey of our Parcel Management System, a collaborative effort involving a dynamic team of four. Together, we crafted a robust 45-page Full-Stack web application. Delving into the core of our project, we architected a sophisticated 4-table relational database schema. This structure empowers our system to effortlessly manage the creation, retrieval, updating, and deletion of data for all your parcel needs. In this project, HTML, CSS, Java, and JavaScript laid the foundation, while MySQL added the crucial data management layer. Every table in the database plays a distinct role. Creating, reading, updating, or deleting data, the CRUD operations ensure that parcel management becomes a smooth and intuitive process.
 
 ### Built With
 
