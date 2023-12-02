@@ -8,12 +8,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Parcel Management System</h3>
+<h1 align="center">Parcel Management System</h1>
 
-  <p align="center">
-    project_description
-    <br />
-  </p>
 </div>
 
 
@@ -38,24 +34,24 @@
 
 Parcel Management System...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 ![JAVA][java-shield]
+<br/>
 ![HTML][html-shield]
+<br/>
 ![CSS][css-shield]
+<br/>
 ![MySQL][mysql-shield]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## User Interface
 
+### Home Page
 ![homePage](https://github.com/christiantansastro/Parcel-Management-System/assets/137610891/5e83b974-5658-4bd1-b2e5-8a9b00acc63b)
 
+### Customer Login
 ![image](https://github.com/christiantansastro/Parcel-Management-System/assets/137610891/851fa291-6d27-4f96-a70b-011d7dd50a4b)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -63,8 +59,6 @@ Parcel Management System...
 Christian Tansastro - christiantan1530@gmail.com
 
 Project Link: [https://github.com/christiantansastro/Parcel-Management-System](https://github.com/christiantansastro/Parcel-Management-System)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/christiantansastro
