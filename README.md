@@ -1,10 +1,4 @@
-<a name="readme-top"></a>
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<div align="center">
-  <h1 align="center">Parcel Management System</h1>
-</div>
+# Parcel Management System
 
 
 
@@ -49,6 +43,8 @@ Parcel Management System...
 
 <!-- CONTACT -->
 ## Contact
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Christian Tansastro - christiantan1530@gmail.com
 
