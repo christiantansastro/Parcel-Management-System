@@ -33,9 +33,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
     <li><a href="#user-interface">User Inteface</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -50,10 +47,10 @@ Parcel Management System...
 
 ### Built With
 
-* [![Java][Java]]
-* [![HTML][HTML]]
-* [![CSS][CSS]]
-* [![MySQL][MySQL]]
+* [![Java][java-shield]]
+* [![HTML][html-shield]]
+* [![CSS][css-shield]]
+* [![MySQL][mysql-shield]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
