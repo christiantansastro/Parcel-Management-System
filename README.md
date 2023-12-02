@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> Parcel Management System </h1>  
+<h1 align="center"> Parcel Management System </h1>  
 
 <!-- TABLE OF CONTENTS -->
 <details>
