@@ -49,7 +49,7 @@ Parcel Management System...
 
 * [java-shield]
 * [HTML][html-shield]
-* [![CSS][css-shield]]
+* ![CSS][css-shield]
 * [![MySQL][mysql-shield]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
